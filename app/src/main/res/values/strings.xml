@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sayaç</string>
+    <string name="action_settings">Ayarlar</string>
+    <color name="arkaplan">#009688</color>
+    <color name="buton_rengi">#004D40</color>
+    <color name="buton_rengi_pres">#00BFA5</color>
+
+    <string name="reklam_kimligi">ca-app-pub-2918242655469212/8548767502</string>
+
+    <string-array name="renkler">
+        <item>Mor</item>
+        <item>Mavi</item>
+        <item>Yeşil</item>
+        <item>Kırmızı</item>
+        <item>Sarı</item>
+        <item>Gri</item>
+        <item>Pembe</item>
+        <item>Lacivert</item>
+        <item>Tekrarlı Resim</item>
+    </string-array>
+
+    <string-array name="renk_pozisyon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
